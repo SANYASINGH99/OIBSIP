@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+body {
+    background-color: black;
+}
+
+h1 {
+color: aliceblue;
+text-align: center;
+margin-top: 40px;
+font-weight: bolder;
+}
+
+.row {
+    margin: auto;
+}
+
+label, input {
+    font-size: xx-large;  
+}
+
+input {
+    background-color: #ff55e0;
+    border-radius: 10px;
+    border: solid;
+    margin-top: 10px;
+}
+label {
+    margin-top: 30px;
+    color: aliceblue;
+}
+#firstbox label {
+    margin-top: 95px;
+}
+
+#firstbox {
+    padding: 10px;
+    border-radius: 10px;
+    height: 380px;
+    width: 430px;
+    margin-top: 40px;
+    background-color: #750a0a;
+    box-shadow: rgba(255, 217, 0, 0.19) 10px 10px 20px, rgba(245, 247, 244, 0.23) 10px 20px 10px;
+    margin-left: 200px;
+}
+
+#secondbox {
+    padding: 10px;
+    border-radius: 10px;
+    height: 380px;
+    width: 430px;
+    margin-top: 40px;
+    background-color: #001bb2;
+    box-shadow: rgba(255, 251, 32, 0.19) 10px 10px 20px, rgba(5, 255, 122, 0.23) 10px 20px 10px;
+}
+
+h3 {
+color: rgb(85, 234, 110);
+}
+
